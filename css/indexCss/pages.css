@@ -525,7 +525,7 @@ border-radius: 30px;
   display: flex;
   justify-content: center;
   height: 630px;
-  background-image: url(../assets/images/225.png);
+  background-image: url(../../assets/images/225.png);
   background-size: cover;
   border-radius: 40px;
   box-shadow: 10px 5px 6px 10px rgb(0, 0, 0, 0.3),

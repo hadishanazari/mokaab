@@ -8,7 +8,7 @@
 }
 @font-face {
   font-family: 'IRSans';
-  src: url('/fonts/irsans.ttf') format('truetype');
+  src: url('../fonts/irsans.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -1025,7 +1025,7 @@ a {
   display: flex;
   justify-content: center;
   height: 630px;
-  background-image: url(/assets/images/225.png);
+  background-image: url(../assets/images/225.png);
   background-size: cover;
   border-radius: 40px;
   box-shadow: 10px 5px 6px 10px rgb(0, 0, 0, 0.3),
