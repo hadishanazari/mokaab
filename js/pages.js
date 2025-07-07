@@ -1,14 +1,3 @@
-const widthDisplay = document.getElementById('widthDisplay');
-
-function updateWidth() {
-  widthDisplay.textContent = `عرض صفحه: ${window.innerWidth}px`;
-}
-
-window.addEventListener('resize', updateWidth);
-updateWidth();
-
-
-
 
 const list = document.querySelector(".baner__slider-items");
 const btnNext = document.getElementById("baner__btnNext");
